@@ -1,5 +1,5 @@
 'use strict';
 
-const StyleExtHtmlWebpackPlugin = require('./lib/plugin.js');
+const StyleExtHtmlWebpackPlugin5 = require('./lib/plugin.js');
 
-module.exports = StyleExtHtmlWebpackPlugin;
+module.exports = StyleExtHtmlWebpackPlugin5;
